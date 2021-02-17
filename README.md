@@ -40,5 +40,5 @@ Contact me on my [Discord](https://discord.gg/xe4UVMZ)
 
 ### Versions
 
-- [vRP-Version](https://github.com/Teo815)
-- [ESX-Version](https://github.com/Teo815)
+- [vRP-Version](https://github.com/Teo815/custom_teo-tokens-vRP)
+- [ESX-Version](https://github.com/Teo815/custom_teo-tokens-ESX)
