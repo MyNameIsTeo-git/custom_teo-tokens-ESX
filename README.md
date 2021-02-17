@@ -12,6 +12,17 @@ This script is a kind of money system that allows you to add/remove tokens from 
 - To see how many Tokens a Player has:
 `/gettokens <id>`
 
+### Attention:
+
+To use the commands to add/remove Tokens you need the ace permission. It can be set in the server.cfg with these strings:
+
+`
+    add_ace group.admin command allow
+    add_ace group.admin command.quit deny
+    add_principal identifier.steam:changeme group.admin 
+`
+You have to modify the changeme with your steam hex!
+
 ### Events:
 
 - To add Tokens to a Player:
